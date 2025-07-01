@@ -11,6 +11,7 @@ public class push_and_pull {
 	
 	WebDriver driver= new ChromeDriver();
 	driver.manage().window().maximize();
+		driver.manage().window().maximize();
 
 
 }
